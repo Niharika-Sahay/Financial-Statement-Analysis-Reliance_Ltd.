@@ -3,7 +3,7 @@ The first step of analyzing the Consolidated Financial Statements involved simpl
 ## Simplifying the Financial Statements
 
 Below is the Simplified Profit & Loss Statements as well as the Balance Sheets for the years 2024-2025 and 2025-2026.
-![Screenshot of Simplified P/L statement and Balance Sheet]()
+![Screenshot of Simplified P/L statement and Balance Sheet](assets/%231PL_Simplified.png)
 
 ### Calculation Explanation
 
@@ -27,12 +27,12 @@ Actual No. of Shares = 13532 Capital/ 10 face value = 1353.2<br/>
 ## Ratio Calculations
 
 Below are the calculated ratios FY 2024-2025 and FY 2025-2026, along with their formulas:
-![Screenshot of Financial Ratio Calculation]()
+![Screenshot of Financial Ratio Calculation](assets/%232Ratio_Comparison.png)
 
 ## Two-Year Trend Analysis (2025-2026)
 
 Below is the comparison of financial ratios over the years 2025-2026 for Reliance Industries Ltd.:
-![Scrrenshot of Two-Year Financial Ratio Analysis]()
+![Scrrenshot of Two-Year Financial Ratio Analysis](assets/%233Trend.png)
 
 ## Insights
 
@@ -45,6 +45,8 @@ Profit Margin = Net Profit ÷ Revenue × 100
 - FY 2024–25: 8.24%
 - FY 2025–26: 8.88%
 - Change: +0.64 percentage points<br/>
+
+![](assets/%235Chart2.png)
 
 The improvement indicates that the company generated approximately ₹8.88 of net profit for every ₹100 of revenue in FY 2025–26, compared with ₹8.24 in the previous year. This represents a meaningful improvement in the proportion of revenue retained as profit.
 
@@ -86,6 +88,8 @@ Management reported that Return on Net Worth improved to 10.1% in FY 2025–26 f
 **Analyst insight:**\
 The improvement in the supplied ROE calculation is a favourable development for shareholders. Importantly, the higher return appears to have been supported by stronger profitability rather than a significant increase in financial leverage, as the Debt-Equity ratio remained broadly stable. This makes the improvement in shareholder returns relatively reassuring.
 
+![](assets/%234Chart1.png)
+
 **2) Efficiency Ratios**
 
 **2.1) Debtors Turnover**
@@ -97,6 +101,8 @@ Debtors Turnover = Revenue ÷ Average Debtors
 - Change: -4.87 times
 
 The ratio declined marginally. This means that receivables were converted into revenue at a slower rate than in the previous year. Debtors increased from ₹42,121 crore to ₹58,491 crore, while revenue increased at a comparatively slower pace.
+
+![](assets/%236Chart3.png)
 
 **Management's comment:**\
 Management stated that the Group uses diverse trade-financing and structured products to optimise working capital and maintains sufficient liquidity and undrawn credit lines to meet short-term obligations.
