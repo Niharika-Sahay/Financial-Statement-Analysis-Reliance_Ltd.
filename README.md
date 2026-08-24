@@ -33,5 +33,4 @@ Management's FY 2025–26 commentary describes the Group as having delivered a s
 
 
 ### Quick Links
-[Get detailed Project]()<br/>
-[Download the Analysis Report]()
+[Get detailed Project](Detailed_Project_Report.md)<br/>
